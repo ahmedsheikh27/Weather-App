@@ -78,3 +78,9 @@ h2 {
     color: aliceblue;
 margin-top: -20px;
 }
+.foot{
+    font-weight: bold;
+    font-family: poppins , sans-serif;
+    position: fixed;
+    top: 620px  ;
+}

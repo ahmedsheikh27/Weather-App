@@ -47,7 +47,9 @@ const getWeatherIcon = (iconCode) => {
           <p className='descript'> {weatherData.weather[0].description}</p>
         </div>
       )}
-      
+      <footer className='foot'>
+        Made By Muhammad Ahmed Amin ❤️
+      </footer>
     </div>
   )
 }
